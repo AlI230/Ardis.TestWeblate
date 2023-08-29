@@ -159,4 +159,7 @@
   <data name="Ardis_TestWeblate_Components_Person_city_Description" xml:space="preserve">
     <value />
   </data>
+  <data name="String1" xml:space="preserve">
+    <value>fdsfs</value>
+  </data>
 </root>

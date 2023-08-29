@@ -185,5 +185,14 @@ namespace Ardis.TestWeblate.Components.Properties {
                 return ResourceManager.GetString("Ardis_TestWeblate_Components_Person_name_Name", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to fdsfs.
+        /// </summary>
+        public static string String1 {
+            get {
+                return ResourceManager.GetString("String1", resourceCulture);
+            }
+        }
     }
 }
