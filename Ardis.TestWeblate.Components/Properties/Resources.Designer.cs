@@ -196,7 +196,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Conflict test.
+        ///   Looks up a localized string similar to Conflict test opnieuw.
         /// </summary>
         public static string String2 {
             get {
