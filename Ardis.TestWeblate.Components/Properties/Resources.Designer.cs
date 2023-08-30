@@ -196,7 +196,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Test auto update.
+        ///   Looks up a localized string similar to Test auto update 2.
         /// </summary>
         public static string String2 {
             get {
