@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Ardis_TestWeblate_Components_Car_brand_Name" xml:space="preserve">
-    <value>This is the brand of a car</value>
+    <value>This is the brand</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Car_brand_Description" xml:space="preserve">
     <value />
   </data>
   <data name="Ardis_TestWeblate_Components_Car_color_Name" xml:space="preserve">
-    <value>This is the color of a car</value>
+    <value>This is the color</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Car_color_Description" xml:space="preserve">
     <value />
