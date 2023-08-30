@@ -160,7 +160,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the city.
+        ///   Looks up a localized string similar to This is a village.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Person_city_Name {
             get {
