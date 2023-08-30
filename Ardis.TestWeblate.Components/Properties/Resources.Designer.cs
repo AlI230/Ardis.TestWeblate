@@ -70,7 +70,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the brand of a car.
+        ///   Looks up a localized string similar to This is the brand of the car with pull request.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Car_brand_Name {
             get {
@@ -88,7 +88,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the color of a car.
+        ///   Looks up a localized string similar to This is the color.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Car_color_Name {
             get {
@@ -106,7 +106,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the numbers of doors of a car.
+        ///   Looks up a localized string similar to This is the numbers of doors.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Car_numberOfDoors_Name {
             get {
@@ -124,7 +124,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the adress of a person.
+        ///   Looks up a localized string similar to This is the adress.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Person_adress_Name {
             get {
@@ -142,7 +142,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the age of a person.
+        ///   Looks up a localized string similar to This is the age .
         /// </summary>
         public static string Ardis_TestWeblate_Components_Person_age_Name {
             get {
@@ -160,7 +160,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the city of a person.
+        ///   Looks up a localized string similar to This is the city.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Person_city_Name {
             get {
@@ -178,7 +178,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is the name of a person.
+        ///   Looks up a localized string similar to This is the name.
         /// </summary>
         public static string Ardis_TestWeblate_Components_Person_name_Name {
             get {
@@ -187,7 +187,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to fdsfs.
+        ///   Looks up a localized string similar to Retest auto commit/push - new.
         /// </summary>
         public static string String1 {
             get {
@@ -196,7 +196,7 @@ namespace Ardis.TestWeblate.Components.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Conflict test opnieuw.
+        ///   Looks up a localized string similar to Test auto update.
         /// </summary>
         public static string String2 {
             get {
