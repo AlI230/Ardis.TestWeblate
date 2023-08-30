@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Ardis_TestWeblate_Components_Car_brand_Name" xml:space="preserve">
-    <value>This is the brand f</value>
+    <value>This is the brand of the car with pull request</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Car_brand_Description" xml:space="preserve">
     <value />
@@ -163,6 +163,6 @@
     <value>Retest auto commit/push - new</value>
   </data>
   <data name="String2" xml:space="preserve">
-    <value>Test auto commit 2 / new</value>
+    <value>Test auto commit</value>
   </data>
 </root>
