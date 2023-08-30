@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Ardis_TestWeblate_Components_Car_brand_Name" xml:space="preserve">
-    <value>This is the brand</value>
+    <value>This is the brand f</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Car_brand_Description" xml:space="preserve">
     <value />
@@ -130,31 +130,31 @@
     <value />
   </data>
   <data name="Ardis_TestWeblate_Components_Car_numberOfDoors_Name" xml:space="preserve">
-    <value>This is the numbers of doors of a car</value>
+    <value>This is the numbers of doors</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Car_numberOfDoors_Description" xml:space="preserve">
     <value />
   </data>
   <data name="Ardis_TestWeblate_Components_Person_name_Name" xml:space="preserve">
-    <value>This is the name of a person</value>
+    <value>This is the name</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Person_name_Description" xml:space="preserve">
     <value />
   </data>
   <data name="Ardis_TestWeblate_Components_Person_age_Name" xml:space="preserve">
-    <value>This is the age of a person</value>
+    <value>This is the age </value>
   </data>
   <data name="Ardis_TestWeblate_Components_Person_age_Description" xml:space="preserve">
     <value />
   </data>
   <data name="Ardis_TestWeblate_Components_Person_adress_Name" xml:space="preserve">
-    <value>This is the adress of a person</value>
+    <value>This is the adress</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Person_adress_Description" xml:space="preserve">
     <value />
   </data>
   <data name="Ardis_TestWeblate_Components_Person_city_Name" xml:space="preserve">
-    <value>This is the city of a person</value>
+    <value>This is the city</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Person_city_Description" xml:space="preserve">
     <value />
