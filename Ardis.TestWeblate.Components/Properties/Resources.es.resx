@@ -117,26 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="String1" xml:space="preserve">
-    <value>Retest auto commit/push - new</value>
-  </data>
-  <data name="String2" xml:space="preserve">
-    <value>Test auto update 2</value>
-  </data>
-  <data name="Ardis_TestWeblate_Components_Person_city_Name" xml:space="preserve">
-    <value></value>
-  </data>
-  <data name="Ardis_TestWeblate_Components_Person_adress_Name" xml:space="preserve">
-    <value>This is the adress</value>
-  </data>
   <data name="Ardis_TestWeblate_Components_Person_name_Name" xml:space="preserve">
     <value>This is the name</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Person_age_Name" xml:space="preserve">
     <value>This is the age </value>
   </data>
+  <data name="Ardis_TestWeblate_Components_Person_adress_Name" xml:space="preserve">
+    <value>This is the adress</value>
+  </data>
+  <data name="Ardis_TestWeblate_Components_Person_city_Name" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="String2" xml:space="preserve">
+    <value>Test auto update 2</value>
+  </data>
   <data name="Ardis_TestWeblate_Components_Car_brand_Name" xml:space="preserve">
     <value>This is the brand of the car with pull request</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value>Retest auto commit/push - new</value>
   </data>
   <data name="Ardis_TestWeblate_Components_Car_color_Name" xml:space="preserve">
     <value>This is the color</value>
